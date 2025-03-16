@@ -1,7 +1,7 @@
 # 🕵️‍♂️ Uncover-LLMs  
 🚀 A lightweight LLM-powered app to **interact with text** using local & private AI models.  
 
-[Watch Demo Video](./llmvideo.mp4)
+[Watch Demo Video](http://www.uncover-llms.com/)
 
 
 ## ✨ Features  
