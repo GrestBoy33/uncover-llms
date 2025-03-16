@@ -8,7 +8,7 @@ Thank you for considering contributing to **Uncover-LLMs**! 🚀 We welcome cont
 - Click the **Fork** button on the top right of the repo.
 - Clone your forked repository:
   ```bash
-  git clone https://github.com/your-username/Uncover-LLMs.git
+  git clone https://github.com/GrestBoy33/Uncover-LLMs.git
   cd Uncover-LLMs
   ```
 
